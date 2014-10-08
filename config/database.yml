@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  host: 192.168.1.13
+  encoding: utf8
+  database: org001
+  pool: 5
+  username: aipo_reminder
+  password: reminder
